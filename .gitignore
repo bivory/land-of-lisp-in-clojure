@@ -1,0 +1,22 @@
+.hg*
+
+# Mac files
+.DS_Store
+
+# vim swap
+*.swp
+*.swo
+
+# Leiningen auto generation
+.lein-deps-sum
+classes/
+lib/
+autodoc/
+*.jar
+META-INF/
+native/
+
+# Google App Engine auto generation
+war/WEB-INF/lib/
+war/WEB-INF/classes/
+war/WEB-INF/appengine-web.xml
