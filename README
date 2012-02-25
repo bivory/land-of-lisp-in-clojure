@@ -1,13 +1,4 @@
-# land-of-lisp
+# Land Of Lisp
 
-FIXME: write description
+Games from the book Land Of Lisp but implemented in Clojure.
 
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
